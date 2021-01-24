@@ -59,7 +59,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.0.2",
+    "tailwindcss-pseudo-elements": "^1.5.1"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.12.7",

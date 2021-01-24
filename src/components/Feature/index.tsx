@@ -9,10 +9,13 @@ interface FeatureProps extends React.HTMLProps<HTMLUListElement> {
 
 function Feature({ name, children, Icon, color, className = '', ...props }: FeatureProps) {
   return (
-    <article className={`border-t-4 border-primary-${color} ${className}`} {...props}>
-      <h2>{name}</h2>
-      <p>{children}</p>
-      <Icon />
+    <article
+      className={`flex flex-col relative overflow-hidden before:color-line-${color} p-8 bg-neutral-white shadow rounded-lg ${className}`}
+      {...props}
+    >
+      <h2 className="font-semibold text-xl mb-1">{name}</h2>
+      <p className="text-feature text-primary text-opacity-50">{children}</p>
+      <Icon className="mt-auto ml-auto" />
     </article>
   )
 }
