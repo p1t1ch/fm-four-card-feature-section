@@ -30,7 +30,7 @@ module.exports = {
       },
       fontSize: {
         body: ['.9375rem', 1.67],
-        feature: ['.8125', 1.77],
+        feature: ['.8125rem', 1.77],
       },
       boxShadow: {
         DEFAULT: '0px 15px 30px -11px rgba(131, 166, 210, 0.5)',

@@ -13,7 +13,7 @@ function IndexPage() {
       <Seo title="Frontend Mentor: Four card feature section" />
       <section className="max-w-lg text-center mb-16">
         <p className="font-extralight text-2xl md:text-4xl mb-1 md:mb-3">Reliable, efficient delivery</p>
-        <h1 className="font-semibold text-2xl md:text-4xl mb-3">Powered by Technology</h1>
+        <h1 className="font-semibold text-2xl md:text-4xl mb-4">Powered by Technology</h1>
         <p className="text-primary text-opacity-50">
           Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is
           successful
