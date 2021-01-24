@@ -12,3 +12,7 @@
 </p>
 
 For this challenge:
+
+1. Practice with Tailwind (round 5)
+1. Setup safelist for Purge CSS
+1. Setup custom Tailwind plugin for pseudoelements

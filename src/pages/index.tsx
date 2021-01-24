@@ -12,8 +12,8 @@ function IndexPage() {
     <main className="min-h-screen grid place-items-center px-8 py-20">
       <Seo title="Frontend Mentor: Four card feature section" />
       <section className="max-w-lg text-center mb-16">
-        <p className="font-extralight text-4xl">Reliable, efficient delivery</p>
-        <h1 className="font-semibold text-4xl mb-3">Powered by Technology</h1>
+        <p className="font-extralight text-2xl md:text-4xl">Reliable, efficient delivery</p>
+        <h1 className="font-semibold text-2xl md:text-4xl mb-3">Powered by Technology</h1>
         <p className="text-primary text-opacity-50">
           Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is
           successful
