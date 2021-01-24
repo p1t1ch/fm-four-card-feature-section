@@ -35,6 +35,9 @@ module.exports = {
       boxShadow: {
         DEFAULT: '0px 15px 30px -11px rgba(131, 166, 210, 0.5)',
       },
+      margin: {
+        15: '3.75rem',
+      },
     },
   },
   plugins: [
