@@ -1,4 +1,4 @@
-# Frontend Mentor: Profile card component
+# Frontend Mentor: Four card feature section
 
 <p align="center"><strong align="center">My solution for Frontend Mentor <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK">Four card feature section</a> challenge</strong></p>
 
